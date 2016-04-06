@@ -10,3 +10,5 @@ creating an optical 3D effect.
 Sirin is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
+
+![Sirin Stencil Font](src/sample.png)
