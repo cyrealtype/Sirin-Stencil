@@ -10070,15 +10070,16 @@ name = onesuperior;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 264, 0}";
+transform = "{1, 0, 0, 1, 84, 0}";
 },
 {
+alignment = -1;
 name = twosuperior;
-transform = "{1, 0, 0, 1, 958, 0}";
+transform = "{1, 0, 0, 1, 556, -282}";
 }
 );
 layerId = UUID0;
-width = 1273;
+width = 1093;
 }
 );
 unicode = 00BD;
@@ -10090,19 +10091,20 @@ layers = (
 {
 components = (
 {
-name = foursuperior;
-},
-{
 name = onesuperior;
-transform = "{1, 0, 0, 1, 377, 0}";
+transform = "{1, 0, 0, 1, -70, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 641, 0}";
+transform = "{1, 0, 0, 1, 14, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 389, -295}";
 }
 );
 layerId = UUID0;
-width = 1335;
+width = 758;
 }
 );
 unicode = 00BC;
@@ -10114,19 +10116,20 @@ layers = (
 {
 components = (
 {
-name = foursuperior;
-},
-{
-name = fraction;
-transform = "{1, 0, 0, 1, 377, 0}";
-},
-{
 name = threesuperior;
-transform = "{1, 0, 0, 1, 1071, 0}";
+},
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 129, 0}";
+},
+{
+name = foursuperior;
+transform = "{1, 0, 0, 1, 489, -295}";
 }
 );
 layerId = UUID0;
-width = 1390;
+width = 874;
 }
 );
 unicode = 00BE;
@@ -17169,6 +17172,16 @@ UUID0 = 1;
 name = Regular;
 }
 );
+kerning = {
+UUID0 = {
+onesuperior = {
+fraction = -180;
+};
+threesuperior = {
+fraction = -190;
+};
+};
+};
 keyboardIncrement = 0;
 manufacturer = "Cyreal (www.cyreal.org)";
 manufacturerURL = "http://cyreal.org";
