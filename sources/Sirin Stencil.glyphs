@@ -10070,15 +10070,15 @@ name = onesuperior;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 56, 0}";
+transform = "{1, 0, 0, 1, 264, 0}";
 },
 {
 name = twosuperior;
-transform = "{1, 0, 0, 1, 522, -282}";
+transform = "{1, 0, 0, 1, 958, 0}";
 }
 );
 layerId = UUID0;
-width = 837;
+width = 1273;
 }
 );
 unicode = 00BD;
@@ -10091,18 +10091,18 @@ layers = (
 components = (
 {
 name = foursuperior;
-transform = "{1, 0, 0, 1, 458, -284}";
 },
 {
 name = onesuperior;
+transform = "{1, 0, 0, 1, 377, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 56, 0}";
+transform = "{1, 0, 0, 1, 641, 0}";
 }
 );
 layerId = UUID0;
-width = 818;
+width = 1335;
 }
 );
 unicode = 00BC;
@@ -10115,19 +10115,18 @@ layers = (
 components = (
 {
 name = foursuperior;
-transform = "{1, 0, 0, 1, 466, -284}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 67, 0}";
+transform = "{1, 0, 0, 1, 377, 0}";
 },
 {
 name = threesuperior;
-transform = "{1, 0, 0, 1, -15, 0}";
+transform = "{1, 0, 0, 1, 1071, 0}";
 }
 );
 layerId = UUID0;
-width = 826;
+width = 1390;
 }
 );
 unicode = 00BE;

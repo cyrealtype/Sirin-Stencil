@@ -27,19 +27,23 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a (at) cyreal.org
 
-There are two .vfb Source files:
-1. SirinStencil-Regular-OTF.vfb (Merged and optimized file)
-2. SirinStencil-Regular-TTF.vfb (Mastered TTF with manual hinting applied)
+Source files:
+Sirin Stencil.glyphs (Glyphs App file)
 
-ChangeLog
+ChangeLog:
 
-1 December (Olga Karpushina) v 1.000
-— Completed initial version in VFB format
+1 February (Alexei Vanyashin) v 1.100
+— added GF Core glyphs
+— added combining marks
+— moved sources to .glyphs
 
 5 December (Alexei Vanyashin) v 1.002
 — Tweeked glyphs Z, z, L, two, twosuperior, four, foursuperior, seven
 — Masted file from VBF to TTF format
 — Minor spacing adjustments
+
+1 December (Olga Karpushina) v 1.000
+— Completed initial version in VFB format
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
