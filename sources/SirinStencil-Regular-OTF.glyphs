@@ -1,10 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"\U00E7",
-"\U00BD\U00BC\U00BE",
-"...\U00A0/ellipsis 2/divisionslash 3"
-);
 classes = (
 {
 automatic = 1;
@@ -12,7 +7,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The SirinStencil Project Authors (https://github.com/cyrealtype/Sirin-Stencil)";
+copyright = "Copyright 2011 The Sirin Stencil Project Authors (https://github.com/cyrealtype/Sirin-Stencil)";
 customParameters = (
 {
 name = licenseURL;
@@ -43,7 +38,7 @@ value = 1;
 date = "2018-02-01 10:40:12 +0000";
 designer = "Olga Karpushina";
 designerURL = "http://cyreal.org";
-familyName = SirinStencil;
+familyName = "Sirin Stencil";
 featurePrefixes = (
 {
 automatic = 1;
